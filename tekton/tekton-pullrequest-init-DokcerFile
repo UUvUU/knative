@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.20.0@sha256:302de05d8ade2c9eb65aed906377c1932cbe002b4215fe1d299eaf64b8d7cdb3", "-build-gcs-fetcher-image", 
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.20.0@sha256:302de05d8ade2c9eb65aed906377c1932cbe002b4215fe1d299eaf64b8d7cdb3
