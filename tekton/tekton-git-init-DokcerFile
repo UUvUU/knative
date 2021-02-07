@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.20.0@sha256:6b6a8fd4a7aeae8995a4acd2b2fb77458c287b309f2ccabdb257a067f37521b8", "-entrypoint-image", 
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.20.0@sha256:6b6a8fd4a7aeae8995a4acd2b2fb77458c287b309f2ccabdb257a067f37521b8
