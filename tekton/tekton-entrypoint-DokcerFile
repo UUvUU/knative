@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.20.0@sha256:9621a893ae2d4eb91fa8d56bf6f15774be8abd26e5d3f5e10a3f8eb8f31d540a", "-nop-image", 
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.20.0@sha256:9621a893ae2d4eb91fa8d56bf6f15774be8abd26e5d3f5e10a3f8eb8f31d540a
